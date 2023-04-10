@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **2104410052** |
+| Nama Lengkap | **Balya Ahmad Waffa** |
 | Kelas | TI-4B |
